@@ -34,6 +34,7 @@ header{
     align-items: center;  
 }
 .text-arrow{
+    box-sizing: border-box;
     display: flex;
     gap: 5px;
     height: 100%;
@@ -440,4 +441,5 @@ ul{
     color: white;
     padding-top: 34px;
     font-size: 13px;
+
 }
